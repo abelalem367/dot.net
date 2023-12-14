@@ -1,0 +1,13 @@
+C:\Users\Abel\Desktop\dot.net\arifpaynet\bin\Debug\net8.0\arifpaynet.deps.json
+C:\Users\Abel\Desktop\dot.net\arifpaynet\bin\Debug\net8.0\arifpaynet.dll
+C:\Users\Abel\Desktop\dot.net\arifpaynet\bin\Debug\net8.0\arifpaynet.pdb
+C:\Users\Abel\Desktop\dot.net\arifpaynet\obj\Debug\net8.0\arifpaynet.csproj.AssemblyReference.cache
+C:\Users\Abel\Desktop\dot.net\arifpaynet\obj\Debug\net8.0\arifpaynet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abel\Desktop\dot.net\arifpaynet\obj\Debug\net8.0\arifpaynet.AssemblyInfoInputs.cache
+C:\Users\Abel\Desktop\dot.net\arifpaynet\obj\Debug\net8.0\arifpaynet.AssemblyInfo.cs
+C:\Users\Abel\Desktop\dot.net\arifpaynet\obj\Debug\net8.0\arifpaynet.csproj.CoreCompileInputs.cache
+C:\Users\Abel\Desktop\dot.net\arifpaynet\obj\Debug\net8.0\arifpaynet.sourcelink.json
+C:\Users\Abel\Desktop\dot.net\arifpaynet\obj\Debug\net8.0\arifpaynet.dll
+C:\Users\Abel\Desktop\dot.net\arifpaynet\obj\Debug\net8.0\refint\arifpaynet.dll
+C:\Users\Abel\Desktop\dot.net\arifpaynet\obj\Debug\net8.0\arifpaynet.pdb
+C:\Users\Abel\Desktop\dot.net\arifpaynet\obj\Debug\net8.0\ref\arifpaynet.dll

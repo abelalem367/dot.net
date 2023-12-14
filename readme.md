@@ -59,22 +59,5 @@ public class Program
         JObject result = arifPay.Make_payment(jsonObject).Result;
         // you can see the result json
         Console.WriteLine(result);
-
-
-
-
-
-
-
-        // Add payment information to paymentInfo...
-        paymentInfo.Add("cancelUrl", "<your-cancel-url>");
-        paymentInfo.Add("successUrl", "<your-success-url>");
-        paymentInfo.Add("errorUrl", "<your-error-url>");
-        paymentInfo.Add("notifyUrl", "<your-notify-url>");
-        paymentInfo.Add("paymentMethods", "<your-payment-methods>");
-        paymentInfo.Add("items", "<your-items>");
-        paymentInfo.Add("beneficiaries", "<your-beneficiaries>");
-        // finally make use of the Make_payment method
-        JObject result = arifPay.Make_payment(paymentInfo).Result;
     }
 }

@@ -60,7 +60,7 @@ public class ArifPay
                             
                             JObject error = new JObject();
                             error.Add("status", (int)response.StatusCode);
-                            error.Add("message", response.ReasonPhrase);
+                            error.Add("message", JObject.Parse( await response.Content.ReadAsStringAsync()));
                             return error;
                         }
                         string result = await response.Content.ReadAsStringAsync();
