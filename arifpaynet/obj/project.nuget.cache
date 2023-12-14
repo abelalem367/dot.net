@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vZmDzPtMCR+3JAyAVPHtcxrsrDkMZLqO8iuQ2fWxt6Okn5x8cWC0ZnDabjBzg0ZS/VerKYG+rIjWcrqFzj8yzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Abel\\Desktop\\dot.net\\arifpaynet\\arifpaynet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abel\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Abel\\.nuget\\packages\\nuget.commandline\\6.8.0\\nuget.commandline.6.8.0.nupkg.sha512",
+    "C:\\Users\\Abel\\.nuget\\packages\\nuget.exe\\3.4.3\\nuget.exe.3.4.3.nupkg.sha512"
+  ],
+  "logs": []
+}
